@@ -127,8 +127,8 @@ Open [http://localhost:3000](http://localhost:3000) and search for a course topi
 
 | Contributor | Contributions |
 |---|---|
-| **Cheyenne Mowatt** | Converted course PDFs to structured JSON and loaded them into MongoDB; researched and implemented the Atlas Search query layer (`getSearch.ts`); document detail page; footer |
-| **Angel Manson** | Search results page; About page |
+| **Cheyenne Mowatt** | Converted course PDFs to structured JSON and loaded them into MongoDB; researched and implemented the Atlas Search query layer (`getSearch.ts`); Search results page; footer |
+| **Angel Manson** | About page, document detail page |
 | **Esraa Sabr** | Home page search and routing; recursive `RenderValue` renderer |
 | **Kaizia** | Google OAuth authentication with Auth.js; session-aware header |
 
